@@ -19,7 +19,7 @@ def topsis(input,weights,impact,output):
         if not input.endswith('.csv'):
             raise customexception('Only .csv format is supported')
 
-        df1 = pd.read_csv(sys.argv[1])
+        df1 = pd.read_csv(input)
 
         col=len(df1.columns)
         if col<3:
