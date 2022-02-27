@@ -8,7 +8,7 @@ setup(
   author = 'Janice',                   # Type in your name
   author_email = 'jkaur3_be19@thapar.edu',      # Type in your E-Mail
   url = 'https://github.com/JaniceKaur/TopsisJanice',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/JaniceKaur/TopsisJanice/archive/refs/tags/v_02.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/JaniceKaur/TopsisJanice/archive/refs/tags/v_03.tar.gz',    # I explain this later on
   keywords = ['Topsis', 'weights and impacts', 'rank','performance','Multiple-Criteria Decision Making (MCDM)'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
